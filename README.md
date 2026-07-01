@@ -90,3 +90,4 @@ App runs on `http://localhost:5173`.
 - **Rating uniqueness:** a DB-level unique constraint on `(userId, storeId)` in the `ratings` table means submitting a rating twice updates the existing one instead of duplicating it — this powers "submit vs modify" in the UI.
 - **Notifications:** triggered automatically when — an admin creates a user, a store is linked to an owner, or a rating is submitted/updated on an owned store.
 - **Sorting/filtering:** table headers are clickable and toggle ascending/descending; filters use `LIKE` queries server-side (users, stores) for name/email/address, plus role filter for users.
+- **Screenshots :**  <img width="790" height="843" alt="Screenshot 2026-07-01 194633" src="https://github.com/user-attachments/assets/10f8a87f-088e-424f-b231-c1929918123a" />
