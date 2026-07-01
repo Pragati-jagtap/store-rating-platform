@@ -91,3 +91,14 @@ App runs on `http://localhost:5173`.
 - **Notifications:** triggered automatically when — an admin creates a user, a store is linked to an owner, or a rating is submitted/updated on an owned store.
 - **Sorting/filtering:** table headers are clickable and toggle ascending/descending; filters use `LIKE` queries server-side (users, stores) for name/email/address, plus role filter for users.
 - **Screenshots :**  <img width="790" height="843" alt="Screenshot 2026-07-01 194633" src="https://github.com/user-attachments/assets/10f8a87f-088e-424f-b231-c1929918123a" />
+
+<img width="1905" height="870" alt="Screenshot 2026-07-01 194620" src="https://github.com/user-attachments/assets/80702e65-51a3-4045-bd0e-7447c4380a16" />
+
+<img width="1905" height="870" alt="Screenshot 2026-07-01 194620" src="https://github.com/user-attachments/assets/e2fe440c-be99-445e-a504-b901ea548b31" />
+
+
+<img width="1898" height="868" alt="Screenshot 2026-07-01 194456" src="https://github.com/user-attachments/assets/b88e048f-d86e-4ab1-9c4a-bb450f4ab444" />
+
+<img width="1900" height="877" alt="Screenshot 2026-07-01 194549" src="https://github.com/user-attachments/assets/055e14fb-800e-46f6-9be0-837f4bf9d71c" />
+
+
